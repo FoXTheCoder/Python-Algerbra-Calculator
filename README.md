@@ -1,5 +1,3 @@
-# Python-Algerbra-Calculator
-
 ## Features
 
 ### Quadratic Equation Solver: 
